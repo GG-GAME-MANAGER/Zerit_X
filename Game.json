@@ -2,21 +2,21 @@
     {
         "title": "ыыы",
         "price": 999,
-        "image": "banner1.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
     },
     {
         "title": "Игра 2",
         "price": 1499,
-        "image": "banner2.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
     },
     {
         "title": "Игра 3",
         "price": 1299,
-        "image": "banner3.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
     },
     {
         "title": "Игра 4",
         "price": 899,
-        "image": "banner4.jpg"
+        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
     }
 ]
