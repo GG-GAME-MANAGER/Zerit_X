@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Игра 1",
+        "price": 999,
+        "image": "banner1.jpg"
+    },
+    {
+        "title": "Игра 2",
+        "price": 1499,
+        "image": "banner2.jpg"
+    },
+    {
+        "title": "Игра 3",
+        "price": 1299,
+        "image": "banner3.jpg"
+    },
+    {
+        "title": "Игра 4",
+        "price": 899,
+        "image": "banner4.jpg"
+    }
+]
