@@ -1,22 +1,653 @@
-[
-    {
-        "title": "111",
-        "price": 999,
-        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
-    },
-    {
-        "title": "Игра 2",
-        "price": 1499,
-        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
-    },
-    {
-        "title": "Игра 3",
-        "price": 1299,
-        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
-    },
-    {
-        "title": "Игра 4",
-        "price": 899,
-        "image": "https://upload.wikimedia.org/wikipedia/ru/b/bb/Обложка_компьютерной_игры_Cyberpunk_2077.jpg"
-    }
-]
+{
+  "1": {
+    "name": "The World of Combat Hybrids",
+    "title": "The World of Combat Hybrids | ZeritX",
+    "coverImage": "https://i.ibb.co/zh9qwzLn/game-cover.png",
+    "background": "https://i.ibb.co/zh9qwzLn/game-cover.png",
+    "coverLogo": "https://i.ibb.co/Cp94GBpZ/Logo.png",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+
+    "gameGenres": [
+      "Экшен",
+      "Аниме",
+      "Фэнтези"
+    ],
+
+    "Price": "$16.24",
+    "Past price": "$24.99",
+    "Description": "В далёком будущем планета превратилась в пустыню, по которой двигался город-плантация...",
+    "Title_description": "Союз сердец, судьбы и пилотов Франксов",
+    "Full_description": [
+        "2045 год. Человечество живет на обломках былой цивилизации, спасаясь за стенами колоссальных городов-плантации от загадочных и беспощадных существ — ревозавров. Эти чудовища, рожденные глубоко под землей, разрушают все на своем пути, оставляя лишь смерть и разрушения. Чтобы противостоять им, человечество создало Франксы — гигантские боевые машины, управляемые парами юных пилотов.",
+        "Жизнь людей зависит от этих роботов, пилотируемых подростками, обученными только одной цели — сражаться. Каждое сражение — это вопрос выживания. В бесконечной борьбе за право жить под солнцем, каждый пилот сталкивается не только с врагами, но и с тяготами взросления, одиночеством и поиском смысла в мире, где все подвластно приказам.",
+        "Но что скрывается за фасадом этой войны? Какую правду скрывают правители города и ученые, создавшие Франксы?",
+        "Ты — пилот, избранный для управления Франксом, одной из самых мощных боевых машин. Твоя напарница — загадочная девушка по имени 002, известная своим смертоносным талантом в бою и дикой натурой. Вместе вам предстоит пройти через множество испытаний, чтобы раскрыть правду о ревозавров и своём существовании.",
+        "Исследуй пост апокалиптический мир, покрытый руинами старых цивилизаций. Открывай скрытые лаборатории, заброшенные мегаполисы и старые боевые базы, где ученые проводили секретные эксперименты. Какие технологии были потеряны в катастрофе? И какие из них могут помочь тебе в сражении за будущее?",
+        "Но ревозавры не единственная угроза. Ты столкнешься с внутренними конфликтами среди пилотов, интригами правителей и своими собственными демонами.",
+        "Каждое сражение будет проверкой твоей стратегии и силы. Используй мощь Франкса на полную: комбинируй атаки, исследуй слабости врагов, улучшай своё оружие и тактику. Управляй своим Франксом вместе с напарницей и стань тем, кто определит будущее человечества.?",
+        "Только так можно выжить в мире, где каждый бой — шаг к раскрытию ужасающей тайны."
+    ],
+    "DemoSize": "1.9 ГБ свободного места",
+    "DemoDate": "от 05.06.2024",
+    "screenshots": [
+        "https://vkplay.ru/pre_0x807_resize/hotbox/showcase/gamehighlightdraft/pic/b024d296-eaf8-4cab-ace2-a6f6692ca9d9.png",
+        "https://vkplay.ru/pre_0x807_resize/hotbox/showcase/gamehighlightdraft/pic/69f6b91a-67d3-46d8-a336-b37da8fdd3e8.png",
+        "https://vkplay.ru/pre_0x807_resize/hotbox/showcase/gamehighlightdraft/pic/7a2885db-6210-4fe4-8f6b-ff9be4d6254a.png",
+        "https://vkplay.ru/pre_0x807_resize/hotbox/showcase/gamehighlightdraft/pic/8074654c-af18-47b5-9097-d57ffa5eab3f.png",
+        "https://vkplay.ru/pre_0x807_resize/hotbox/showcase/gamehighlightdraft/pic/95614c29-15c3-410b-8584-803d07151f63.png",
+        "https://vkplay.ru/pre_0x807_resize/hotbox/showcase/gamehighlightdraft/pic/e551e7c8-4cdf-44be-a767-9956c82bdb0e.png",
+        "https://vkplay.ru/pre_0x807_resize/hotbox/showcase/gamehighlightdraft/pic/99ba0df4-78cf-4414-8af8-e793e08d95c4.png"
+    ],
+    "ReleaseDateNeeded": "True",
+    "ReleaseDate": "2025 год"
+  },
+  "2": {
+    "name": "Cuphead",
+    "title": "Cuphead | ZeritX",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/ru/e/eb/Cuphead_%28artwork%29.png",
+    "background": "https://cdn.steamstatic.com/steamcommunity/public/images/items/268910/79148735687f4bce410cf210f6cb2c18b9a51621.jpg",
+    "coverLogo": "https://wallpapers.com/images/hd/cuphead-logo-graphic-vt9s8lr3m7o0tv26.jpg",
+    "Rating": "https://i.ibb.co/1JKvHB68/Z-16.png",
+    "Price": "$19.99",
+    "Past price": "",
+    "Description": "Cuphead — это классическая игра в жанре «беги и стреляй».",
+    "Title_description": "Полностью мультяшная Волшебная игра-чудо!",
+
+    "DeluxeNeeded": "False",
+    "DeluxePrice": "$69.99",
+    "DeluxePast_Price": "$650.0",
+
+    "Full_description": [
+        "Cuphead — это классическая игра в жанре «беги и стреляй», в которой основное внимание уделяется сражениям с боссами. Вдохновлённая мультфильмами 1930-х годов, визуальная и звуковая части игры были тщательно созданы с использованием тех же техник той эпохи: традиционная рисованная от руки покадровая анимация, акварельные фоны и оригинальные джазовые записи.",
+        "Играйте за Чашку или Кружку (в одиночном или локальном кооперативном режиме), путешествуя по странным мирам, приобретая новое оружие, изучая мощные суперприёмы и открывая скрытые секреты,"
+    ],
+    "DemoSize": "3.6 ГБ свободного места",
+    "DemoDate": "от 05.04.2019",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000016330/d94d2186ef03c930392253c83c84af0c73b7e57cd902a526b09b4155a25930fe",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000016330/28b61e16dfaa8dc0fbaa1f4777a3db884d6be95e653c4d4a79038b7860d063de",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000016330/4723f0435692d3f39b85be5a89c63b7ca03851887928e14e0e2fcbe8b922a904",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000016330/a478c29325f14b5bdae8402b0fd0f6be8de7af5e2337fd9dadb3d6cdfc9d2f7c",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000016330/670082604c93146cd94e427756772337cc42c6f2fe13ecc4813e265e457694cf",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000016330/0b9fc014405cb5d814349e429f0b832671bac319f629b70d91a3d3f6a540b408",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000016330/c7a66066dacc849b6ed5cb800befb356c5866b0d3492098f39ce16dbad8018c2"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "2025 год"
+  },
+  "3": {
+    "name": "Hollow Knight",
+    "title": "Hollow Knight | ZeritX",
+    "coverImage": "https://lh5.googleusercontent.com/proxy/NWpRgG8keyI1lOelb4yHnLhU2AMExtbcFNPm38IWW9eyASHRtE86ixfDiv3pSyNSz8CAlSG2eDkD2id0xxZScopX8MBzSw",
+    "background": "https://cdn.steamstatic.com/steamcommunity/public/images/items/367520/88ae94fbfb817750fd86ce7c0f1656e832bd0638.jpg",
+    "coverLogo": "https://png.klev.club/uploads/posts/2024-04/png-klev-club-m4cy-p-hollow-knight-png-2.png",
+    "Rating": "https://i.ibb.co/TM5JLd14/Z-12.png",
+    "Price": "$15.00",
+    "Past price": "",
+    "Description": "Hollow Knight — это 2D-приключение в классическом стиле.",
+    "Title_description": "Проложите свой собственный путь в Hollow Knight! Эпическое приключенческое путешествие по огромному разрушенному королевству насекомых и героев.",
+    "Full_description": [
+        "Hollow Knight — это 2D-приключение в классическом стиле, действие которого разворачивается в огромном взаимосвязанном мире. Исследуйте извилистые пещеры, древние города и смертоносные пустоши; сражайтесь с порочными существами и заводите дружбу с причудливыми жуками; разгадывайте древние тайны в самом сердце королевства.",
+        "Включает бесплатные пакеты контента! Все новые задания, битвы с боссами и секреты!",
+        "• Скрытые мечты: появляются могущественные новые враги! Новые битвы с боссами. Новые улучшения. Новая музыка.",
+        "• Труппа Гримм: зажгите фонарь Кошмара. Призовите труппу. Новое главное задание. Новые битвы с боссами. Новые амулеты. Новые враги. Новые друзья.",
+        "• Жизненная сила: новые инструменты для составления карт. Новая битва с боссом. Улучшенные боссы. Новая музыка. Скрытые дополнения!",
+        "• Бог-мастер: займите своё место среди богов. Новые персонажи и задания. Новые бои с боссами. Скрытые сюрпризы!"
+    ],
+    "DemoSize": "5.3 ГБ свободного места",
+    "DemoDate": "от 05.04.2018",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003208/4643fb058642335c523910f3a7910575f56372f612f7c0c9a497aaae978d3e51",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003208/50162a28f3e73c7e80021d799acce991a0b051105f209565088cd254a2a986d1",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003208/208c3efdf8bf7cb5ba1f2154f5508d97af71b7853dc8e7eff302d3b1804bb178",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003208/6266f71028d118acbc56f2952106b99b8a81de0c4d80db5729db2f2d8c48b15e",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003208/ddcf359a6e8a2bb8b2eabf9fc26b9511b047745320c2d56aeabf24222f0967fc",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003208/c9eaec86c13661401717a75546d7e6af55fa0da8b3d3e41e9d58b0c037cc7de7",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003208/93309648ca2cf8d7a269da8f3deb386833497d857e8344d339caf3f81fc8a2f1"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "2025 год"
+  },
+  "4": {
+    "name": "Celeste",
+    "title": "Celeste | ZeritX",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Celeste_box_art_full.png/639px-Celeste_box_art_full.png",
+    "background": "https://i.playground.ru/e/nxHx-Y4Xq_UCcMSi8ySnRA.jpeg?1244x700",
+    "coverLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Celeste_video_game_logo.png/2545px-Celeste_video_game_logo.png",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+    "Price": "$15.00",
+    "Past price": "",
+    "Description": "Пройдите сотни испытаний, созданных вручную, в этом сверхсложном платформере и помогите Мэдлин добраться до вершины горы Селеста!",
+    "Title_description": "Проложите свой собственный путь в Hollow Knight! Эпическое приключенческое путешествие по огромному разрушенному королевству насекомых и героев.",
+    "Full_description": [
+        "Помогите Мэдлин справиться с внутренними демонами на пути к вершине горы Селеста в этом невероятно напряжённом, созданном вручную платформере от создателей многопользовательской классической игры TowerFall.",
+        "• Повествование в однопользовательской игре, как в тех, что делала мама, с очаровательными персонажами и трогательной историей самопознания",
+        "• Огромная гора, изобилующая 700+ экранами с хардкорными платформерными испытаниями и коварными секретами",
+        "• Жестокие главы на стороне «Б», доступные только самым смелым альпинистам",
+        "• Финалист премии IGF «За выдающиеся достижения в области звука», более 2 часов оригинальной музыки, в том числе ослепительное живое фортепиано и запоминающиеся синтезаторные ритмы"
+    ],
+    "DemoSize": "1,5 ГБ свободного места",
+    "DemoDate": "от 25.01.2018",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000006442/691ba3e0801180a9864cc8a7694b6f98097f9d9799bc7e3dc6db92f086759252",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000006442/4f74fbbab423aba0acc28f954643f112946a9c9318e9543fd1ddea4f863fea81",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000006442/dd649ca9811831baff09db2e1adbab93f9ac2bbe058d76759c1aef8a2b20b2a6",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000006442/1e79086b6e592aced95d11da2481212b9819d7b51df315d16b577bd1236e1f4a",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000006442/5427aef20c3e611418739fa0f497eb1196f599b7cf03b07b13bc4bc8c41f8569",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000006442/79be8902941947e79b8b86008aaa5beb960b1a5f97500b126772dc11d5146236",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000006442/fc250befc44966777a68ceeeaf1f9770ccc911e9c2cc8c5f31e7d1c43b90628d"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "2025 год"
+  },
+  "5": {
+    "name": "Xenoblade Chronicles",
+    "title": "Xenoblade Chronicles | ZeritX",
+    "coverImage": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/11/xenoblade-chronicles-x-definitive-edition-tag-page-cover-art.jpg",
+    "background": "https://cdn-image-f3580964b8e711e5b95f2ff191a1c838.baas.nintendo.com/1/c79aaca1170116c5",
+    "coverLogo": "https://assets.nintendo.eu/image/upload/f_auto,q_auto,w_767/v1730211902/MNS/Content%20Pages%20Assets/Category-List%20Pages/Franchises/Xenoblade%20Chronicles%20X:%20Definitive%20Edition/16.9_Switch_XenobladeChroniclesX_Logo_NOE.png",
+    "Rating": "https://i.ibb.co/TM5JLd14/Z-12.png",
+    "Price": "$59.99",
+    "Past price": "",
+    "Description": "На дворе 2054 год. Земля была разрушена в результате межгалактической войны между двумя инопланетными расами, и человечество находится на грани уничтожения.",
+    "Title_description": "Восстановите человечество на таинственной планете Мира",
+    "Full_description": [
+        "На дворе 2054 год. Земля была разрушена в результате межгалактической войны между двумя инопланетными расами, и человечество находится на грани уничтожения. Несколько выживших на борту космического корабля «Белый кит» совершают аварийную посадку на огромной и необитаемой планете Мира.",
+        "Теперь вам, как члену BLADE, предстоит помочь вернуть человечество с грани вымирания… с помощью гигантских, управляемыхроботов по имени Скеллс!",
+        "Визуально улучшенная версия этой ролевой игры с открытым миром содержит новые сюжетные элементы и многое другое."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000088832/d33ed7f51de601b10cafa5814fd786bbad317b0421a43d54917a2c647be2f23b",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000088832/905b34aef7513719641a558c612a0d43b92db62ddd15561776f2ac380c096e40",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000088832/cb260b77797e7c5cb106595fcd8486139048239497120cdf0f81e7b46a40ecda",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000088832/b1472a0c9662255b09f0aa3b19c4875f3e4cdca90a20e569bd42bfc81df26db0",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000088832/9c2fd60b72d261edef32be071b29dd134920339d9fd8dd288dc38e3191e57f17",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000088832/95281d1133e9b074610cc618fe6f495796c4858ed992e34679c6ca85ea8d1559",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000088832/f85ce9c880ba7d4f806c5a7482dd3d1f011b4f629b8a262302815e3c3bbebe52"
+    ],
+    "ReleaseDateNeeded": "True",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "6": {
+    "name": "Hogwarts Legacy",
+    "title": "Hogwarts Legacy | ZeritX",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/3/33/Hogwarts_Legacy_cover.jpg/859px-Hogwarts_Legacy_cover.jpg",
+    "background": "https://c4.wallpaperflare.com/wallpaper/74/666/568/hogwarts-legacy-castle-fantasy-art-mist-dark-hd-wallpaper-preview.jpg",
+    "coverLogo": "https://portkeygamessupport.wbgames.com/hc/article_attachments/32813888638867",
+    "Rating": "https://i.ibb.co/TM5JLd14/Z-12.png",
+    "Price": "$17.99",
+    "Past price": "$59.99",
+    "Description": "Hogwarts Legacy — это ролевая игра с открытым миром, действие которой происходит в мире, описанном в книгах о Гарри Поттере.",
+    "Title_description": "Hogwarts Legacy",
+    "Full_description": [
+        "Hogwarts Legacy — это ролевая игра с открытым миром, действие которой происходит в мире, описанном в книгах о Гарри Поттере. Исследуйте и открывайте для себя волшебных существ, настраивайте своего персонажа и создавайте зелья, осваивайте заклинания, улучшайте таланты и станьте тем волшебником, которым хотите быть.",
+        "Познакомьтесь с Хогвартсом в 1800-х годах. Заводите союзников, сражайтесь с тёмными волшебниками и в конечном счёте решайте судьбу волшебного мира. Ваше наследие — это то, что вы из него сделаете. Живите по Неписаному.",
+        "Включает в себя квест «Магазин в Хогсмиде с привидениями», который открывает доступ к дополнительному подземелью, косметическому набору «Продавец» и внутриигровому магазину в Хогсмиде.",
+        "Новые функции включают в себя:",
+        "-Фоторежим",
+        "-Сброс таланта",
+        "Новые косметические предметы, доступные всем игрокам: очки «Живые», форма и плащ узника Азкабана, гиппогриф Оникс, рецепт зелья «Феликс Фелицис», метлы тёмных волшебников (2)"
+    ],
+    "DemoSize": "14,9 ГБ",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014724/72ce0a17215521a167c3da579db4cc48a2f7a52eacc81ad985ba20fd6817fdc2",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014724/68bc1a465ee619467161e8a732ed751600c27be9661e550e3baa423cf1f66436",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014724/1c464bc8423a698e0f56b5177604f79ff18c331bf843522c6ba49d7e5f7e10fe",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014724/e9ee7c65cc10edc4ff13381aed5632d36c1597572f9bdcb8d85a6729d72cc9c3",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014724/0d5311f16b6831dc6a1437a2ce4245c5f512d96c08c78d9ae01f5372a71484c3",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014724/cd6d7e979efb9721795b9c82faa1c75b8fc0dcab8c515cb402c603f4d5eaeac7",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014724/804ce4db6ad21936da44956435edd0dde6edbf2e0ecc5a868edf499e3e884ac3"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "7": {
+    "name": "Overcooked! 2",
+    "title": "Overcooked! 2 | ZeritX",
+    "coverImage": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9",
+    "background": "https://cdn.steamstatic.com/steamcommunity/public/images/items/728880/1f3a15471f65c9916c71a9017d5b37e1bd6b7e38.jpg",
+    "coverLogo": "https://cdn2.steamgriddb.com/logo_thumb/d5b5d916c5f98d027d0f4b977ebd40d2.png",
+    "Rating": "https://i.ibb.co/VcjxbDjc/Z-0.png",
+    "Price": "$6.24",
+    "Past price": "$24.99",
+    "Description": "Вы спасли мир от Вечного Голода. Теперь возникла новая угроза, и пора вернуться на кухню, чтобы утолить голод Ненасытного!",
+    "Title_description": "Пережаренное возвращается с совершенно новой порцией хаотичных кулинарных действий! Вернитесь в Луковое королевство и соберите свою команду поваров в классической кооперативной игре на диване или в онлайн-игре для четырёх игроков. Держитесь за свои фартуки… пришло время спасать мир (ага",
+    "Full_description": [
+        "БЕЗУМНЫЙ МНОГОПОЛЬЗОВАТЕЛЬСКИЙ РЕЖИМ В ИНТЕРНЕТЕ/ЛОКАЛЬНОЙ СЕТИ — вам предстоит работать вместе (или друг против друга), чтобы набрать как можно больше очков в хаотичном локальном и сетевом многопользовательском режиме.",
+        "ПОЛЮБУЙТЕСЬ НА ЭТО — путешествуйте по совершенно новой карте мира по суше, морю и воздуху. Готовьте в новых локациях: от суши-ресторанов, школ магии, шахт и даже инопланетных планет!",
+        "ПРИЯТНОГО АППЕТИТА! — Путешествуйте по стране, готовя разнообразные новые блюда на любой вкус, в том числе суши, торты, бургеры и пиццу.",
+        "СПОКОЙСТВИЕ, ТОЛЬКО СПОКОЙСТВИЕ! — перемещайтесь с помощью телепортов, по движущимся платформам и экономьте время, перебрасывая ингредиенты между динамичными кухнями, которые меняются и развиваются. Некоторые кухни даже переносят ваших поваров в новые локации."
+    ],
+    "DemoSize": "5.8 ГБ",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003402/057249cf707a2a733c876c0eb453bb018ee6ea09f3aea5c350f4d76f70840d00",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003402/5a52da67ba949e038d19b583f3587424275c79dfc0766946fbbfbce13ebc9a7f",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003402/f56ee2d4d48205638baf96f8146032cfeb76290d34970a9f48b4165559c5a9ff",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003402/0ecc67b4298ab6171c9a8a8b3dc3377eb65bc4bd094877ef534a35983c0617e0",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003402/43b02178d85638fee4982f5b286c3aae8b91f6034b39e34512ed9ae082ca4e20",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003402/aef514f9a289b2878f684944c6d02bf71998c6a02e09622d6dddf0a771556c95",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000003402/d7b0a55fd80a52fdec0ebbd2f6cfd8d34641f9154bb9286d1a80e51dc50b978f"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "8": {
+    "name": "Little Kitty, Big City",
+    "title": "Little Kitty, Big City | ZeritX",
+    "coverImage": "https://www.kinonews.ru/insimgs/2025/poster/poster131660_1.webp",
+    "background": "https://assetsio.gnwcdn.com/Little-Kitty-Big-City_o4mH2vQ.png?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+    "coverLogo": "",
+    "Rating": "https://i.ibb.co/d0XzNxM3/Z-6.png",
+    "Price": "$16.24",
+    "Past price": "$24.99",
+    "Description": "Вы поедете домой или сначала посмотрите, что может предложить большой город? ",
+    "Title_description": "Мирный сон превращается в причудливое приключение!",
+    "Full_description": [
+        "Вы поедете домой или сначала посмотрите, что может предложить большой город? Я имею в виду, что возвращение домой, очевидно, является вашим главным приоритетом. Очевидно. Ну, это один из ваших приоритетов. Может быть, скорее ориентир... Это точно где-то в вашем списке дел! Но сначала? Исследование!"
+    ],
+    "DemoSize": "1,3 ГБ",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000061050/813e3bd006428f1a6618bf73584b107d262ce6f663428bca0566e0ab49540dd2",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000061050/875d0cd976f63a49a4c6f88d04ed8daec999ea171aedc64a0fa153664d278b73",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000061050/8d91b15af956f1360795ea7bd10f6d3aca677ad45d677a6bfaaa735a9f058daa",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000061050/1e19687bb6ab64c241995b1a7fa787b4d057ddeb3d37dc77b8d5fced49a291e9",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000061050/69e80bf10252dfb1b93b8231411bffd2a2de658c2773ccacaa7e8ab8673d9b56",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000061050/1cae841ca240821cfc931447632fd166c927e0d3cad20fd928964e11bd6624db",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000061050/23771358c6c3192eb33e85105edf87798ad87baf0d840a0afb1bc9deedbc4d87"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "9": {
+    "name": "Sky: Children of the Light",
+    "title": "Sky: Children of the Light | ZeritX",
+    "coverImage": "https://gaming-cdn.com/images/products/6247/orig/sky-children-of-the-light-switch-game-nintendo-eshop-europe-cover.jpg?v=1730387607",
+    "background": "https://i.pinimg.com/736x/84/07/12/84071259641ec35f282bb3678dd3e84c.jpg",
+    "coverLogo": "https://upload.wikimedia.org/wikipedia/fr/f/f7/Sky_Children_of_the_Light_Logo.png",
+    "Rating": "https://i.ibb.co/TM5JLd14/Z-12.png",
+    "Price": "$0.00",
+    "Past price": "",
+    "Description": "Добро пожаловать в чарующий мир Sky, прекрасно анимированное королевство, которое ждёт, когда вы и ваши близкие его исследуете.",
+    "Title_description": "Летай с друзьями",
+    "Full_description": [
+        "От отмеченных наградами создателей Journey («Игра года» 2013) и получившего признание Flower — новаторское социальное приключение, которое согреет ваши сердца.",
+        "Добро пожаловать в чарующий мир Sky, прекрасно анимированное королевство, которое ждёт, когда вы и ваши близкие его исследуете.",
+        "В «Небесах» мы прибываем как Дети Света, неся надежду в опустошённое королевство, чтобы вернуть павшие звёзды в их созвездия."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000028614/f032bc5938086021a073524101d095b4e7465fb2500a6dee39753321a69a10db",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000028614/2a5675dd1141318f85cfcfd707b92011dcf44a2b18f5fdab250534768824d78c",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000028614/86764714b863b8235df5293b4e57443301c2303bb123f7b06dd40e21b6f33e59",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000028614/4314f2e4a84b02441579ae6d4491f52e487a0178d1d74845027f41dfb6d88235",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000028614/927c42aeceb2cda99e5c62131fe4fcdb3cd14dde17cecd988ce09f5e10b07cff",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000028614/3128d38139c953e5f6cc7d511cfb0f0f682c2ad5fdaa48d3c6d81d4ae71016c6",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000028614/e4c361ee3a1cdd79cf98d526af411d2aa414bcf0bf2a4b6f0909c6ca7ae2881f"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "10": {
+    "name": "Minecraft",
+    "title": "Minecraft | ZeritX",
+    "coverImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
+    "background": "https://ybis.ru/wp-content/uploads/2023/09/mainkraft-rtkh-sheidery-3-1.webp",
+    "coverLogo": "https://foni.papik.pro/uploads/posts/2024-10/foni-papik-pro-bxo1-p-kartinki-mainkraft-logo-na-prozrachnom-fon-1.png",
+    "Rating": "https://i.ibb.co/d0XzNxM3/Z-6.png",
+    "Price": "$29.99  ",
+    "Past price": "",
+    "Description": "Переживите ночь или создайте произведение искусства в популярной игре-песочнице!",
+    "Title_description": "Мир в вашем распоряжении для созидания",
+    "Full_description": [
+        "Переживите ночь или создайте произведение искусства в популярной игре-песочнице! Стройте всё, что только можете себе представить, раскрывайте тайны и сражайтесь с захватывающими врагами в бесконечном мире, который уникален при каждом прохождении. Не существует неправильного способа играть!"
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000000964/a28a81253e919298beab2295e39a56b7a5140ef15abdb56135655e5c221b2a3a",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000000964/b23676caba30e73eb5097f21f8d6e7b269700a51be6c0f7d6ac42bb06b856215",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000000964/f38453ba284ae7079907906edd934132cfb9551cd4de07928a025538d27c91ed",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000000964/fe30a072a38e1c83abca8ad0987d40cb054da8bdb684d8b59562e07aaceb1e84",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000000964/e7082dff513211e2bec6facddfc66576edaf4b62086116e6290828f8075c95aa",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000000964/4ebc72cce174b6cc6b57748e842bfd11e6e0dcbaab88d89818c6a5dbe9a9c5c8"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "11": {
+    "name": "Stray",
+    "title": "Stray | ZeritX",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/ru/thumb/f/f1/Stray_cover_art.jpg/800px-Stray_cover_art.jpg",
+    "background": "https://99px.ru/sstorage/53/2022/07/mid_343851_905137.jpg",
+    "coverLogo": "https://www.fangamer.eu/cdn/shop/files/stray-white-logo-shadow.png?v=1695086254",
+    "Rating": "https://i.ibb.co/TM5JLd14/Z-12.png",
+
+    "Price": "$23.99",
+    "Past price": "$29.99",
+    "Description": "Потерявшись, оставшись один и вдали от семьи, бездомный кот должен разгадать древнюю тайну, чтобы сбежать из давно забытого города.",
+    "Title_description": "Бездомный кот должен распутать древнюю тайну, чтобы спастись от киберугроз.",
+    "Full_description": [
+        "Stray — это приключенческая игра про кота от третьего лица, действие которой происходит в детально проработанных, освещённых неоновыми огнями переулках разрушающегося кибергорода и в мрачных закоулках его грязного дна. Исследуйте окрестности, защищайтесь от непредвиденных угроз и разгадывайте тайны этого неприветливого места, населённого любопытными дроидами и опасными существами."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000080625/d8c81b018b2e579aa5c224e635cf5368266ef168c7828e9ae18ad9444158efc4",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000080625/f42a1b678d82349f50c55a93d2f8838c231cfe379e6a7eefed8b70bce0cb3b3c",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000080625/e8615c4c65a1cb9b02717ddf39db0b76890bc809225564495b4b679306bf220d",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000080625/12f2432e04e78ca87007cde378f008cc22f72aae5167452a3ad32819e8742994",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000080625/546caf2f66825fac1c19c6d51f0a4d0328a05df705c117857bab784040745208",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000080625/81aa45f992afb9845f498b657fa22ba06f6732f12822676fade53de808916dc5",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000080625/ad615ed83740fa6a05f9b16b9f55674779bac5a62b2bd07a8ce06ef4ef2f8325  "
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "12": {
+    "name": "EA SPORTS FC™ 25",
+    "title": "EA SPORTS FC™ 25 | ZeritX",
+    "coverImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000074799/622abe483016b967cc1d241f2489e389cfaf3130a8587d7193325347a656e45c",
+    "background": "https://vkplay.ru/hotbox/content_files/gallery/2024/07/05/0874638ea35643bfbf14efd47eaad4ef.jpg",
+    "coverLogo": "",
+    "Rating": "https://i.ibb.co/d0XzNxM3/Z-6.png",
+    "Price": "$23.99",
+    "Past price": "$59.99",
+    "Description": "Объединяйтесь в команду в 5v5 Rush — новом способе играть с друзьями в Football Ultimate Team™, Clubs и Kick-Off с небольшим полем.",
+    "Title_description": "Для клуба",
+    "Full_description": [
+        "Stray — это приключенческая игра про кота от третьего лица, действие которой происходит в детально проработанных, освещённых неоновыми огнями переулках разрушающегося кибергорода и в мрачных закоулках его грязного дна. Исследуйте окрестности, защищайтесь от непредвиденных угроз и разгадывайте тайны этого неприветливого места, населённого любопытными дроидами и опасными существами.",
+        "С FC IQ ваша команда будет играть как лучшие в мире. Переработанная тактическая основа игры обеспечивает больший стратегический контроль и более реалистичное коллективное передвижение на уровне команды, а новая модель ИИ, основанная на реальных данных, влияет на тактику игроков с помощью совершенно новых ролей игроков."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000074799/622abe483016b967cc1d241f2489e389cfaf3130a8587d7193325347a656e45c",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000074799/108c283fb00e5d080dd5d28d6cdf3899a4e8e94ac0871d380f0ccadf88303a04",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000074799/232184309f4202612484871181372e38a2b36fad2da938a7625f6b74f4986dbb",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000074799/59f68709163d178823ab14d8d09c24e892696dd7e25ade5732bd324c1871c8d2"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "13": {
+    "name": "SpongeBob SquarePants™: The Patrick Star Game",
+    "title": "SpongeBob SquarePants™: The Patrick Star Game | ZeritX",
+    "coverImage": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/f502b95acfe488921006d87b98ea5cfee50e8bc13c61720aa2c27ae4436c9a0b",
+    "background": "https://image.api.playstation.com/vulcan/ap/rnd/202409/1114/11dca5a4a054c39a17acd0065f9084949cc332965939acec.jpg",
+    "coverLogo": "https://upload.wikimedia.org/wikipedia/pt/thumb/2/24/SpongeBob_SquarePants_logo.svg/2560px-SpongeBob_SquarePants_logo.svg.png",
+    "Rating": "https://i.ibb.co/d0XzNxM3/Z-6.png",
+    "Price": "$39.99",
+    "Past price": "",
+    "Description": "Поклонники Патрика, ваше время пришло — и Бикини Боттом — ваша игровая площадка с открытым миром!",
+    "Title_description": "Наденьте шорты Патрика и устройте весёлый физический хаос в открытом мире Бикини Боттом!",
+    "Full_description": [
+        "Вы можете прыгнуть с парашютом, используя только зонтик (или вообще ничего), поискать спрятанные сокровища на свалке или выпустить пар в комнате ярости миссис Пафф. Используйте почти любой предмет, который найдёте, — от компрессора для рифов до банки с краской, — чтобы сделать мир более похожим на Патрика. И принимайте вызовы, которые под силу только Патрику, от Губки Боба, Сэнди Чикс, мистера Крабса и других."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/f502b95acfe488921006d87b98ea5cfee50e8bc13c61720aa2c27ae4436c9a0b",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/350b5ffbdae697d458a22206916f86531087934158b9a2cb458d302cc90162a9",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/3ef4b0117eafea54eb748349f4f6239f67598459dc5c1bde187723c17209d8f0",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/459d841d9b6b4635198aa25e71ba3131a64772c75a173d8715475ab60e77c7aa",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/ba041691690a077adc9554b71fcf0f3172db1643b9fee290f90aadb9cbc641f1",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/b62fab26a983ede12b4b1176b502d4cd03dbfbc678b439825a8b3c55a071c184",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000065085/de3a8dacde012c789d36e6d94919339cd7a853f0c966c1b8047c8eaca0af25e4"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "14": {
+    "name": "Stella of The End",
+    "title": "Stella of The End | ZeritX",
+    "coverImage": "https://images.igdb.com/igdb/image/upload/t_cover_big_2x/co743p.jpg",
+    "background": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2510770/ss_fb12baa8254c05553b8075d69d85b7339f35abd2.1920x1080.jpg?t=1732683182",
+    "coverLogo": "",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+    "Price": "$24.99",
+    "Past price": "",
+    "Description": "Научно-фантастический визуальный роман «Stella of The End» от Key теперь доступен на ZeritX Nova!",
+    "Title_description": "Девушка-андроид, которая мечтает стать человеком... Что ждёт её в конце этого путешествия?",
+    "Full_description": [
+        "В далёком будущем следуйте за курьером и девушкой-андроидом, которые путешествуют по Земле, ставшей непригодной для жизни человечества."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000085165/77f7652a4281462bab8d1cad691dd35f493acc6cd243ee7fddf9958ebe251d7b",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000085165/1414b633f7305fa530e940e69b1fb4fcb32369df88ab39bb3932c388c9138b57",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000085165/957c2f961c6b0b54945cb9ee6e978e01de57c851f2dabbcdab7119f046ab3ecd",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000085165/26bba44491deaf0e80b7e26799334d8fe1a82dd4c899b1ea3e2d75367d9c82c1",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000085165/ce224b19803a8d2f579ce32883dfb05b1a3b2ae430b338ff69a2b90d7af23c6c",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000085165/266d1cf0a8a0ece9e463b5a05ffa092d96ad25a35cffe8826b60a801e2bd36b8",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000085165/592e5997165c335c7ecd6c57e6dd3468f9ae7520ca9ce293b2739d68bba2d41e"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "15": {
+    "name": "DREDGE",
+    "title": "DREDGE | ZeritX",
+    "coverImage": "https://igm.gg/_next/image?url=https%3A%2F%2Fstorage.yandexcloud.net%2Figm-s3%2FPROD%2F202409%2F83809d17%2Fco69zw.jpg&w=640&q=75",
+    "background": "https://opis-cdn.tinkoffjournal.ru/mercury/in-out-like-simulator-dredge.ls1mezcoylzo..jpg",
+    "coverLogo": "https://static.wixstatic.com/media/e609d3_2c1a8a09d21f41f7b5538e6eccbe57b2~mv2.png/v1/fill/w_260,h_130,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20-%20DREDGE%20(Black).png",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+    "Price": "$14.99",
+    "Past price": "$24.99",
+    "Description": "Управляйте своим рыболовным траулером, чтобы исследовать коллекцию отдалённых островов и окружающие их глубины и увидеть, что находится под ними.",
+    "Title_description": "Одиночное рыболовное приключение со зловещим подводным течением.",
+    "Full_description": [
+        "Управляйте своим рыболовным траулером, чтобы исследовать коллекцию отдалённых островов и окружающие их глубины и увидеть, что находится под ними. Продавайте свой улов местным жителям и выполняйте задания, чтобы узнать больше о неспокойном прошлом каждого региона. Оборудуйте свою лодку более совершенным оборудованием, чтобы прочёсывать глубоководные впадины и отправляться в далёкие земли, но следите за временем. Вам может не понравиться то, что вы обнаружите в темноте..."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000049267/fe7c711c32bb15ecf9c96dac96a7c6818e49d265c28fa59145c0cbf5ebf34055",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000049267/1eba07b66c7cc09900542a3cfc6f90738955d2365025f29d942b123b3687ee01",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000049267/3f377a05662efdb5387a1b284d79e6e8a71c7da4c4f7fdf4da94e22030b1b19d",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000049267/f2fba49df9e5cfcdf14215ac009a92baf3a28f214dbfb9780adc6a397e64f7e9",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000049267/cb27e1491b02cc8210502533592b730a780d929d673744182edf784b6b38ce51",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000049267/790d6ca42fb99fc2535cd9e14fa0991d1146b16a4afb199aaa13d6ab15d3304c",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000049267/e5022b58b1d05f3d3729c928e1ae7074c2731aac5501f84553abf756efa6e101"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "16": {
+    "name": "Nine Sols",
+    "title": "Nine Sols | ZeritX",
+    "coverImage": "https://store-images.s-microsoft.com/image/apps.45976.14000456863863255.e1180b2d-029d-4c02-9385-6ad73421ad63.508279c9-acdd-45b3-9321-9d8f45feb958",
+    "background": "https://files.vgtimes.ru/gallery/main/185284/1907016334_1716268283_4544.webp",
+    "coverLogo": "https://cdn2.steamgriddb.com/logo/35ef81be8aa079f19ee264fcec99fc83.png",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+    "Price": "$29.99",
+    "Past price": "",
+    "Description": "Управляйте своим рыболовным траулером, чтобы исследовать коллекцию отдалённых островов и окружающие их глубины и увидеть, что находится под ними.",
+    "Title_description": "Одиночное рыболовное приключение со зловещим подводным течением.",
+    "Full_description": [
+        "Управляйте своим рыболовным траулером, чтобы исследовать коллекцию отдалённых островов и окружающие их глубины и увидеть, что находится под ними. Продавайте свой улов местным жителям и выполняйте задания, чтобы узнать больше о неспокойном прошлом каждого региона. Оборудуйте свою лодку более совершенным оборудованием, чтобы прочёсывать глубоководные впадины и отправляться в далёкие земли, но следите за временем. Вам может не понравиться то, что вы обнаружите в темноте..."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000073072/ff59ee3c049bdcd8df8e299a63464662880db710c07017a2bc56468a5f3b4424",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000073072/26ada1667493a08f9c8c0bb3e7dec05c9c9caba97b9e2636e388423919db3831",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000073072/09def159523e2be4b7e6d068524e7e8096076688ee8b7f9a0b7b2d0fc0184505",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000073072/056f024f5338358b9df0df41753b6854216475b7e1c70e220de6af399d07406a",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000073072/bd89c68c0e20d2c75e6b62ca83ed2571e16e808c92fc64e8eafb1b19eef9b8ba",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000073072/65aae1dd7e3b25cd70eacb3451d88f97e16b4f0bb4b395fdd64ac16abc8ebf89",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000073072/bd6d87f7cf5384a13146708245ef433e7540b48e125498234c0c49f0ec8439a5"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "17": {
+    "name": "Endless Ocean™ Luminous",
+    "title": "Endless Ocean™ Luminous | ZeritX",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/en/7/7c/Endless_Ocean_Luminous_Cover.jpg",
+    "background": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/bc6b611e2db54a92a7d4f4058d374477a7dd906d88dde185598d0b87dc6c1021",
+    "coverLogo": "https://images.launchbox-app.com/54366563-b813-4c8e-97d1-74bd17b69f40.png",
+    "Rating": "https://i.ibb.co/VcjxbDjc/Z-0.png",
+    "Price": "$49.99",
+    "Past price": "",
+    "Description": "В Endless Ocean Luminous вы можете найти способ игры, который подходит вам по стилю. Не спеша плавайте в море или тщательно описывайте каждое увиденное существо — всё зависит от вас!",
+    "Title_description": "Погрузитесь и расслабьтесь",
+    "Full_description": [
+        "Сделайте глубокий вдох и погрузитесь в Скрытое море: неизведанную область, где с каждым погружением вас ждут новые открытия.",
+        "Изучите морских обитателей и узнайте о более чем 500 видах морской фауны, некоторые из которых считаются вымершими или даже мифическими."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/6fa932eda55c5e713e339667c138a8a4009d439e5d983102cc53d4c0bb84a445",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/bc6b611e2db54a92a7d4f4058d374477a7dd906d88dde185598d0b87dc6c1021",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/8d307b05ffe078550f1a9b9a7177bf0e517acb0e3c6d7ed7fbe98fd8eeeebb21",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/cd63addec722cd666727c9adee16fdfd8391fe216c74745f803d540696856b31",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/0f08909638f2dc441c3597db8a884184599eb60f9f7d6ea7f807bef4bfca747e",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/f056f0f5977860a48077aee1b831ab29dfe545c02f4b97170b63eb82fc40e68e",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000077705/c0d6cc1eb79ae30f97a02de6cc3b6aecf6efab78fabfbe07e8ca186c7c44a36c"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "18": {
+    "name": "Advance Wars™ 1+2: Re-Boot Camp",
+    "title": "Advance Wars™ 1+2: Re-Boot Camp | ZeritX",
+    "coverImage": "https://www.goha.ru/s/E:Bv/gU/COFuoc0X34.jpg",
+    "background": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Zqm7m1A6SiR4IswKY8X6GKp74gVpQVG5Xw&s",
+    "coverLogo": "",
+    "Rating": "https://i.ibb.co/TM5JLd14/Z-12.png",
+    "Price": "$59.99",
+    "Past price": "",
+    "Description": "Возглавьте отряд ярких персонажей в увлекательных пошаговых сражениях в двух классических кампаниях из любимой серии Advance Wars™ — полностью переработанных с нуля!",
+    "Title_description": "Танки для ожидания—Advance Wars возвращаются!",
+    "Full_description": [
+        "Проявите свои выдающиеся стратегические навыки и сразитесь со злодеями в этом совершенно новом спин-оффе любимой серии стратегий. В этом ремейке представлены две кампании, охватывающие события Advance Wars и Advance Wars 2: Black Hole Rising!",
+        "Обратитесь за помощью к своим командирам — у каждого из них есть свои сильные и слабые стороны. Например, Энди может ремонтировать юниты, а Сами может захватывать объекты со скоростью 150%."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000064132/cf6a52d93890df44059d7ba1376beec19155112c7b9cff000ba10eabea0f6ecd",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000064132/b1396b6df591119d3e90f80966c9f05f3599a725a9cd627340c9dcb5f42c9f2b",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000064132/eb4aa590f27cf8dc2606c0cd5e64be2a5e2f84d14347337ab03f2bea2aea4175",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000064132/dec00c1715b116a428b65bf6c5e7d0a329cdc2437d951182f419c28b0e80cca2",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000064132/4b5329eb052003fd932fa2fcdd490dabc9e722f2e31734907d068f6174aaed8c",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000064132/69d8562cda3a8eef81a9c5bbd2195776e2023784d8a45098bc32fce3997e6500",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000064132/cd86ad92c9b98e3533de12dd683331e44d13fdd6aac235545a23df55923cf98a"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "19": {
+    "name": "Asphalt Legends Unite",
+    "title": "Asphalt Legends Unite | ZeritX",
+    "coverImage": "https://image.api.playstation.com/vulcan/ap/rnd/202407/1009/ee9284b5015d3ebb85df65d68a19f40dfb79e072f03709fa.jpg",
+    "background": "https://avatars.dzeninfra.ru/get-zen_doc/271828/pub_66b69d64ced601476e6233ca_66b69d6eced601476e6239f3/scale_1200",
+    "coverLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Asphalt_Legends_Unite_Logo_SVG.svg/2560px-Asphalt_Legends_Unite_Logo_SVG.svg.png",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+    "Price": "$0.00",
+    "Past price": "",
+    "Description": "Участвуйте в напряжённых аркадных гонках, выполняйте головокружительные трюки и мчитесь к победе на самых крутых гиперкарах!",
+    "Title_description": "Подпитайте свой дух соперничества с Asphalt Legends UNITE!",
+    "Full_description": [
+        "Участвуйте в напряжённых аркадных гонках, выполняйте головокружительные трюки и мчитесь к победе на самых крутых гиперкарах! Участвуйте в глобальных многопользовательских гонках, бросьте вызов 7 соперникам на разных платформах или доминируйте в локальных гонках на разделенном экране. Общайтесь с друзьями, создавайте приватные лобби и присоединяйтесь к гоночным клубам, чтобы получать эксклюзивные награды. Выбирайте из более чем 250 гиперкаров, таких как Ferrari и Porsche, покоряйте знаковые трассы по всему миру и наслаждайтесь высокоскоростными гонками с детально проработанными автомобилями и потрясающими эффектами."
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014952/28033df119d5480db103e1b70feabf03fec42ec1a5167053e15426609d550990",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014952/8f3d6003fe532b6997064b7f5edd2124c5c52053618bc947fd1ed8209712865a",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014952/1a531e7925e5ab6cc2a39770c674c5baafa4790ecf2ff780742cde716a2ecb04",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014952/2501a84a2d0574026e5dcc8488cdbe5616c8dab88cf9c886162efb52865c1ba1",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014952/e1ca7f248de33fb66569057bbbe2c042fdb649ddadd75d522b99958259a3caea",
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000014952/edbbd24f65b994684215a326c0cec0d8ebd4ffdf991e809fa92afd89481c22d5"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "20": {
+    "name": "ZeritX Nova",
+    "title": "ZeritX Nova | ZeritX",
+    "coverImage": "https://i.ibb.co/prhV1KBd/game-cover-2.png",
+    "background": "https://i.ibb.co/v4XnvxzZ/ZerNova.png",
+    "coverLogo": "https://i.ibb.co/KpM5cz23/Logo-Nova.png",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+    "Price": "$449,72",
+    "Past price": "",
+    "Description": "Не готово",
+    "Title_description": "Не готово",
+    "Full_description": [
+      "Не готово"
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+      "https://i.ibb.co/35n5G1Nx/Zerit-X-Nova.png"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "21": {
+    "name": "MiSide",
+    "title": "MiSide | ZeritX",
+    "coverImage": "https://upload.wikimedia.org/wikipedia/ru/c/cb/Обложка_MiSide.jpg",
+    "background": "https://img.ixbt.site/live/topics/preview/00/09/50/06/b0529d4feb.png",
+    "coverLogo": "https://byxatab.com/uploads/posts/2024-12/medium/1734182484_1734182539.png",
+    "Rating": "https://i.ibb.co/WNVx1KVN/Z-18.png",
+    "Price": "$14,99",
+    "Past price": "$18,60",
+    "Description": "Представим, что у вас есть игра, в которой вы ухаживаете за персонажем. Но могли бы вы себе представить, что однажды сами попадете в эту игру?",
+    "Title_description": "Останется ли мир игры таким же комфортным и дружелюбным?",
+    "Full_description": [
+        "Miside - это игра в жанре приключения от первого лица. Вы возьмёте на себя роль безымянного протагониста, которого неожиданно затянуло внутрь своей любимой игры. Вам предстоит познакомиться с Митой - милой девушкой-маскотом игры, которая обрела власть над своей игрой и затянула вас к себе просто ради компании. Но действительно ли её мотивы так чисты, можно ли ей доверять? И что вообще происходит в этом месте, таком далёком от нашей привычной реальности?"
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_5f1494dda6124e03499d26aa8291b581f65a57b0.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_bbcfb91713fd45ebf7e8f8d9c5c6c2a194ef00a8.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_bbcfb91713fd45ebf7e8f8d9c5c6c2a194ef00a8.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_f56c830c4c670a0607d6d9cfe6e2199943b4b96a.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_a2a64803e6c0160a1f290f4bd0d94cc83bbb42fa.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_31af73d2dd9af2608463c5a39158c3e0adf277ae.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_7f327615a5938bea292a6307dc10edb152023e52.1920x1080.jpg?t=1739734033"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  },
+  "22": {
+    "name": "Donkey Kong",
+    "title": "Donkey Kong | ZeritX",
+    "coverImage": "https://m.media-amazon.com/images/I/713oxlmegAL._AC_UF894,1000_QL80_.jpg",
+    "background": "https://cdn.iz.ru/sites/default/files/styles/900x506/public/article-2025-01/DonkeyKong_051713_1600.jpg?itok=pPKbbBRE",
+    "coverLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Donkeykong-logo1.svg/1200px-Donkeykong-logo1.svg.png",
+    "Rating": "https://i.ibb.co/VcjxbDjc/Z-0.png",
+    "Price": "$59.99",
+    "Past price": "",
+    "Description": "Представим, что у вас есть игра, в которой вы ухаживаете за персонажем. Но могли бы вы себе представить, что однажды сами попадете в эту игру?",
+    "Title_description": "Останется ли мир игры таким же комфортным и дружелюбным?",
+    "Full_description": [
+        "Miside - это игра в жанре приключения от первого лица. Вы возьмёте на себя роль безымянного протагониста, которого неожиданно затянуло внутрь своей любимой игры. Вам предстоит познакомиться с Митой - милой девушкой-маскотом игры, которая обрела власть над своей игрой и затянула вас к себе просто ради компании. Но действительно ли её мотивы так чисты, можно ли ей доверять? И что вообще происходит в этом месте, таком далёком от нашей привычной реальности?"
+    ],
+    "DemoSize": "Отсутствует",
+    "DemoDate": "Отсутствует",
+    "screenshots": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.5/c_scale,w_1300/ncom/software/switch/70010000001339/d01cba67eb98fec32ac98027c07fa8d92dd52773565bfadc69f817c860e34b8a",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_bbcfb91713fd45ebf7e8f8d9c5c6c2a194ef00a8.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_bbcfb91713fd45ebf7e8f8d9c5c6c2a194ef00a8.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_f56c830c4c670a0607d6d9cfe6e2199943b4b96a.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_a2a64803e6c0160a1f290f4bd0d94cc83bbb42fa.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_31af73d2dd9af2608463c5a39158c3e0adf277ae.1920x1080.jpg?t=1739734033",
+        "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2527500/ss_7f327615a5938bea292a6307dc10edb152023e52.1920x1080.jpg?t=1739734033"
+    ],
+    "ReleaseDateNeeded": "False",
+    "ReleaseDate": "3/20/25 год"
+  }
+}
