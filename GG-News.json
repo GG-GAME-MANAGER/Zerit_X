@@ -1,11 +1,11 @@
 [
   {
-    "title": "Заголовок новости 1",
-    "shortText": "Короткий текст новости для описания сути.",
+    "title": "Встречайте!",
+    "shortText": "Новое приложение со всеми удобстами!",
     "fullText": "Полный текст новости 1, более подробное описание сути новости.",
     "time": "12:30 | 27.03.2025",
     "author": "Иван Петров",
-    "image": "news1.jpg"
+    "image": "https://trashbox.ru/ifiles/1983701_c18f2a_03/v-rustore-rasskazali-kto-chasche-vsego-tratit-dengi-v-rossijskom-magazine-prilozhenij-1.jpeg"
   },
   {
     "title": "Заголовок новости 2",
